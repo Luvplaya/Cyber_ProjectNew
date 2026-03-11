@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/CS_Dash.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/BS_WallRun.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Input/IMC_Default.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/BP_JumpPad.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/IA_Crouch.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/PV/FIR0HB7UH5SJ30TELWY8DY.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/9C/2903VZ33ND5CTYPE1D9P9N.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/IA_Focus.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/OE/FYTH4FNJDR53HAJBWNWX4S.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/XK/XVD0PMLCMAP5BL0XM0IFVN.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/NS_WindStreaks.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/42/J8GHEZRYNET5KGDJF4DUP0.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/S6/ZOAMDUYP8BHCIP6WLAFLYN.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/TW/SCTGKOYRTHYRZNLR52BARF.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/S6/OXVXCQOPC2UHR80EVIM9YG.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/04/9SSBEX7M7GUYGIW459K2E6.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/5W/T5809PPH3EK6RMASDG8GOH.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/MW/II98D04OOBB3OAU5XX1VGS.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/FreeAnimationLibrary/Animations/Slide/anim_Slide_L.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/IA_Slide.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/FreeAnimationLibrary/Animations/Crouch/anim_Crouch_Idle_Montage.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/FreeAnimationLibrary/Animations/Slide/anim_Slide_L_Montage.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/BP_Turret.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/D9/TA3890UTQMFTV42J9ZAU8Z.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/BP_Bullet.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Assets/machine_gun/MG_turret_portable.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Assets/machine_gun/MG_turret_portable_arma_AlbedoTransparency.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Assets/machine_gun/MG_turret_portable_arma_MetallicSmoothness.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Assets/machine_gun/MG_turret_portable_arma_Normal.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Assets/machine_gun/arma.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/Assets/machine_gun/cano.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/PU/INYQWS88T3J57CC2C7ALCJ.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/WBP_LandingFlash.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/L3/PJ16DKYU59II4BFTAG1P1Y.uasset",
+				"D:/Unreal projects/END/New Folder/Cyber_ProjectNew/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/FP/2DILQTTFRMC1SZQFUZ4CTO.uasset"
+			]
+		}
+	]
+}
